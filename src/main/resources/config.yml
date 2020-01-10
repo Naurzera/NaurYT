@@ -1,0 +1,21 @@
+## Titulo do Menu
+titulo: "Requisitos"
+
+## Configure o item que explique os requisitos e as vantagens do mini-yt
+## Link para ver o tipo do item: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+tipo-item-miniyt: "QUARTZ_BLOCK"
+nome-item-miniyt: "&dMini-YT"
+lore-item-miniyt:
+  - '&7Mini youtuber tem que ter 200 inscritos'
+  - '&7Vantagem: Kit MiniYT'
+miniyt-item-brilha: true
+miniyt-slot-inventario: 20
+
+## Agora o item do YouTuber
+tipo-item-youtuber: "OBSIDIAN"
+nome-item-youtuber: "&cYouTuber"
+lore-item-youtuber:
+  - '&7Youtuber tem que ter 1000 inscritos'
+  - '&7Vantagem: Kit Youtuber'
+youtuber-item-brilha: true
+youtuber-slot-inventario: 24

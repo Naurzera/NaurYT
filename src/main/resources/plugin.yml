@@ -1,0 +1,7 @@
+main: com.ryuservers.Main
+name: NaurYT
+version: 1.0.0
+author: Naurzera
+commands:
+  yt:
+  youtuber:
